@@ -3,7 +3,7 @@ import requests
 
 app = Flask(__name__)
 
-#
+
 API_KEY = "641a1b136c1e23cae53e6366c5a12db3"
 
 CURRENT_WEATHER_ENDPOINT = "http://api.openweathermap.org/data/2.5/weather"
